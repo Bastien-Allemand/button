@@ -97,6 +97,7 @@
     <ClCompile Include="..\..\..\src\button\ButtonQuit.cpp" />
     <ClCompile Include="..\..\..\src\button\GameManager.cpp" />
     <ClCompile Include="..\..\..\src\button\main.cpp" />
+    <ClCompile Include="..\..\..\src\button\Mouse.cpp" />
     <ClCompile Include="..\..\..\src\button\pch.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
@@ -108,6 +109,7 @@
     <ClInclude Include="..\..\..\src\button\ButtonQuit.h" />
     <ClInclude Include="..\..\..\src\button\GameManager.h" />
     <ClInclude Include="..\..\..\src\button\main.h" />
+    <ClInclude Include="..\..\..\src\button\Mouse.h" />
     <ClInclude Include="..\..\..\src\button\pch.h" />
     <ClInclude Include="..\..\..\src\button\resource.h" />
   </ItemGroup>
